@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center > Profile Summary:
+<p align="center >
 
 I am Priyanshu Gupta, an accomplished Frontend Developer with 7 months of professional experience, specializing in creating outstanding user experiences. My expertise encompasses roles as a Front-End Developer at a leading tech firm and a React.js Developer at another dynamic organization. Proficient in HTML, CSS, JavaScript, React, Redux, TypeScript, and contemporary UI frameworks such as Material-UI and Next.js, I possess a versatile skill set crucial for delivering high-quality web applications.
 
