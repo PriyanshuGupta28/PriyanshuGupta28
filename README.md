@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Gupta </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="center >
-
-I am Priyanshu Gupta, an accomplished Frontend Developer with 7 months of professional experience, specializing in creating outstanding user experiences. My expertise encompasses roles as a Front-End Developer at a leading tech firm and a React.js Developer at another dynamic organization. Proficient in HTML, CSS, JavaScript, React, Redux, TypeScript, and contemporary UI frameworks such as Material-UI and Next.js, I possess a versatile skill set crucial for delivering high-quality web applications.
+<h3 align="center"> I am Priyanshu Gupta, an accomplished Frontend Developer with 7 months of professional experience, specializing in creating outstanding user experiences. My expertise encompasses roles as a Front-End Developer at a leading tech firm and a React.js Developer at another dynamic organization. Proficient in HTML, CSS, JavaScript, React, Redux, TypeScript, and contemporary UI frameworks such as Material-UI and Next.js, I possess a versatile skill set crucial for delivering high-quality web applications.
 
 Professional Background:
 
@@ -34,8 +30,7 @@ Strong attention to detail, problem-solving skills, and dedication to staying cu
 Why Choose Me:
 
 I bring a unique blend of technical proficiency, a collaborative mindset, and project successes. My experiences reflect adaptability, a commitment to excellence, and a passion for creating cutting-edge frontend solutions. I am excited about the opportunity to contribute to innovative projects and bring my skills to your dynamic team.
-
- </p>
+ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshugupta28&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshugupta28" /> </p>
 
