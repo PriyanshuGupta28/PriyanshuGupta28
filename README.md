@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
 
 ## 🚀 Professional Journey:
-- Accomplished Frontend Developer with 9 months of experience in creating exceptional user experiences.
+- Accomplished Frontend Developer with 10 months of experience in creating exceptional user experiences.
 - Roles include Front-End Developer at a leading tech firm and React.js Developer at a dynamic organization.
 
 ## 💻 Technical Expertise:
