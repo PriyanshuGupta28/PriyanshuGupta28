@@ -3,11 +3,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
 
 ## 🚀 Professional Journey:
-- Accomplished Frontend Developer with 10 months of experience in creating exceptional user experiences.
+- Accomplished Frontend Developer with 2 years of experience in creating exceptional user experiences.
 - Roles include Front-End Developer at a leading tech firm and React.js Developer at a dynamic organization.
 
 ## 💻 Technical Expertise:
-- Proficient in HTML, CSS, JavaScript, React, Redux, TypeScript, Material-UI, and Next.js.
+- Proficient in HTML, CSS, JavaScript, React, Remix.js, Redux, Next.js, TypeScript, MongoDb , Node.js, Express.js, Material-UI and Tailwind Css.
 - Developed responsive web applications, integrating Google Maps API for enhanced real-time tracking functionalities.
 - Led cross-functional collaboration, providing insights to improve user experiences.
 
