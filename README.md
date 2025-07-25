@@ -48,7 +48,15 @@ I'm a self-driven Frontend Developer with over **3 years of hands-on experience*
 
 ## 📈 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriyanshuGupta28\&show_icons=true\&count_private=true\&hide=contribs,issues\&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=PriyanshuGupta28&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=PriyanshuGupta28&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuGupta28&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PriyanshuGupta28&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+
 
 ## 👤 Connect With Me:
 
