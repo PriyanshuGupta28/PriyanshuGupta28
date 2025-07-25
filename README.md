@@ -1,44 +1,61 @@
 # Hi there! 👋 I'm Priyanshu Gupta, Frontend Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=PriyanshuGupta28\&color=brightgreen)
 
-## 🚀 Professional Journey:
-- Accomplished Frontend Developer with 2 years of experience in creating exceptional user experiences.
-- Roles include Front-End Developer at a leading tech firm and React.js Developer at a dynamic organization.
+## 🚀 About Me:
 
-## 💻 Technical Expertise:
-- Proficient in HTML, CSS, JavaScript, React, Remix.js, Redux, Next.js, TypeScript, MongoDb , Node.js, Express.js, Material-UI and Tailwind Css.
-- Developed responsive web applications, integrating Google Maps API for enhanced real-time tracking functionalities.
-- Led cross-functional collaboration, providing insights to improve user experiences.
+I'm a self-driven Frontend Developer with over **3 years of hands-on experience** building scalable, high-performance, and SEO-optimized web solutions. I specialize in **React.js**, **Next.js**, and **TypeScript**, and have worked across diverse domains including **Solar Management Systems**, **E-commerce**, and **Banking Software**.
 
-## ⚛️ React.js Development:
-- Developed and maintained 20+ custom components using Next.js, TypeScript, and Redux.
-- Integrated Contentful headless CMS for streamlined content management.
-- Implemented SEO schema markup, optimizing website performance and increasing organic traffic.
+## 💼 Professional Experience:
 
-## 🏆 Commitment to Excellence:
-- Demonstrated commitment to high-quality solutions and meeting project deadlines.
-- Track record of optimizing website performance through efficient code management.
-- Strong attention to detail, problem-solving skills, and staying current with industry trends.
+### Full-Stack Developer — *Bapa Sitaram Innovation and Technologies* (Jun 2024 – Present)
 
-## 🌟 Why Choose Me:
-- Unique blend of technical proficiency, collaborative mindset, and project successes.
-- Adaptable, committed to excellence, and passionate about creating cutting-edge frontend solutions.
-- Excited about contributing to innovative projects and bringing skills to dynamic teams.
+* Developed a role-based **Solar Management System** with dynamic quotations and PDF handling.
+* Built a secure **Ayurvedic eCommerce platform** with carts, checkouts, and favorites.
+* Created a complete **admin dashboard** for eCommerce management with real-time data.
+* Improved banking software with transaction history and a responsive client portal.
+* Focused on **Cloudflare Tunnels**, **Vercel deployment**, and performance optimization.
 
-## 🛠️ Tech Stack:
-- **Languages:** JavaScript, TypeScript
-- **Frontend:** HTML, CSS, React, Redux, Next.js, Sass/Less, Ant Design (antd) And Mui
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Full Stack:** MERN (MongoDB, Express.js, React, Node.js)
-- **HTTP Client:** Axios
-- **Other Tools:** Git, npm
-- **API:** RESTful APIs, GraphQL
+### Frontend Developer — *Eshkon* (Jul 2023 – Jun 2024)
 
+* Created **30+ reusable UI components** with Next.js, TypeScript, and Redux.
+* Integrated **Contentful CMS** and optimized build processes with **SASS**.
+* Enhanced SEO with dynamic pages and schema markup to increase organic traffic.
 
+### Frontend Developer — *Echnotech Pvt Ltd* (Apr 2022 – Jun 2023)
+
+* Built **responsive apps** using React, Redux, and Material-UI.
+* Developed **dynamic tables** with filtering, pagination, and search.
+* Created a Delivery Partner System with **KYC verification** and **real-time tracking**.
+* Conducted **unit testing** and code reviews to ensure clean, performant code.
+
+## 💡 Tech Stack:
+
+* **Languages:** JavaScript, TypeScript
+* **Frontend:** React, Next.js, Redux, HTML, CSS, Sass, Tailwind CSS, Material-UI, Ant Design
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB
+* **Tools & DevOps:** Git, npm, Vercel, Cloudflare Tunnels, MongoDB 
+* **Design & Prototyping:** Figma
+* **API:** REST APIs, GraphQL
+
+## ✨ Highlights:
+
+* Built **role-based architecture** and **admin dashboards** with real-time control.
+* **SEO-first development** using schema markup and optimized builds.
+* Demonstrated expertise in **component libraries** and **performance tuning**.
+* Deployed **production-grade apps** and ensured secure cloud infrastructure.
 
 ## 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriyanshuGupta28&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
 
-Connect with me for a collaborative and dedicated approach to frontend development! 🚀
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriyanshuGupta28\&show_icons=true\&count_private=true\&hide=contribs,issues\&theme=radical)
+
+## 👤 Connect With Me:
+
+* 🌐 Portfolio: [thepriyanshu.vercel.app](https://thepriyanshu.vercel.app)
+* 💼 LinkedIn: [linkedin.com/in/priyanshukrgupta](https://linkedin.com/in/priyanshukrgupta)
+* 💻 GitHub: [github.com/PriyanshuGupta28](https://github.com/PriyanshuGupta28)
+
+---
+
+Let’s build something exceptional together! ✨
